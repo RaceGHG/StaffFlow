@@ -2,7 +2,8 @@
 
 StaffFlow ist ein **modulares, selbst hostbares Web-basiertes Mitarbeiter-Management-System** für kleine und mittelständische Unternehmen. Die Anwendung bietet umfangreiche Funktionen zur Verwaltung von Personal, Zeiterfassung, Urlauben, Rollen und mehr – alles in einer modernen Oberfläche.
 
-![Screenshot](preview.png) <!-- optional -->
+<img width="1024" height="1024" alt="staffflow_logo" src="https://github.com/user-attachments/assets/3efe1501-9472-4c3e-8eec-c26551dd8565" />
+
 
 ---
 
